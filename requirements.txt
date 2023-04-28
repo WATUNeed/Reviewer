@@ -1,0 +1,7 @@
+pandas
+openai
+pytest
+logging
+enum
+json
+os
